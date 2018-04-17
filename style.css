@@ -1,0 +1,79 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+
+body{
+  background-image: url(img/gym2.jpg)  ;
+  background-size: cover;   background-repeat: no-repeat;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+li{
+  float: right;
+}
+ li a
+ {
+   color: rgba(176, 11, 11, 0.83);
+   list-style-type: none;
+   padding: 22px;
+   text-decoration: none;
+
+   font-size: 32px;
+   margin-right: 32px;
+   border: 1px solid red;
+
+ }
+#left_top
+{
+  margin-top:12px;
+  margin-left: 102px;
+  color: red;
+}
+#right_top
+{
+
+ float: right;
+
+ color: red;
+ margin-top: 32px;
+}
+section
+{
+  float: right;
+  color: white;
+  margin-top: 97px;
+  margin-right: 215px;
+
+
+}
+h1
+{
+  font-size: 54px;
+}
+h2
+{
+  margin-left: 42px;
+  font-size: 44px;
+}
+span
+{
+color: grey;
+margin-left: 32px;
+
+}
+button
+{
+  background-color: rgb(131, 226, 87);
+  border: none;
+  border-radius: 10px;
+  margin-top: 93px;
+  margin-left:  142px;
+  font-size: 20px;
+  height: 43px;
+  width: 203px
+}
